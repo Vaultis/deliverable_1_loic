@@ -20,6 +20,10 @@ The breadboarding artefact below illustrates the execution flow of a typical spl
 
 ![Breadboarding_Vaultis](/assets/Breadboarding_Vaultis.png)
 
+The sketches artefact below illustrate in blue the main new ui elements added. 
+
+![Breadboarding_Vaultis](/assets/SEG_4105_Vaultis_Sketches.jpeg)
+
 ## Rabbit Holes
 There are several potential rabbit holes worth exploring to ensure the project success:
 
